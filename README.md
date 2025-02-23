@@ -74,5 +74,5 @@ python holiday_planner.py --file holidays.csv --filetype csv --year 2025 --use-p
 - If `icalendar` is not installed, the script prompts for installation and exits.
 
 ## License
-This project is open-source and available for modification and redistribution under the GNU AGPL License.
+This project is open-source and available for modification and redistribution under the GNU GPL License.
 
